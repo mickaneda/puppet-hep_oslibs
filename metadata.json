@@ -1,0 +1,19 @@
+{
+  "name": "puppet-hep_oslibs",
+  "version": "0.0.1",
+  "author": "Michiru Kaneda",
+  "summary": "Puppet module for hep_oslibs-fluentd",
+  "license": "MIT",
+  "source": "https://github.com/mickaneda/puppet-hep_oslibs",
+  "description": "Puppet module for hep_oslibs-fluentd",
+  "issues_url": "https://github.com/mickaneda/puppet-hep_oslibs/issues",
+  "tags": [
+  ],
+  "project_page": "https://github.com/mickaneda/puppet-hep_oslibs",
+  "requirements": [
+  ],
+  "operatingsystem_support": [
+  ],
+  "dependencies": [
+  ]
+}
